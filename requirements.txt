@@ -1,0 +1,14 @@
+torch==2.0.1
+torchvision
+einops
+pytorch_lightning
+xformers
+open_clip_torch
+ipywidgets
+transformers==4.40.2
+segment-anything
+imageio
+scipy
+opencv-python
+matplotlib
+omegaconf

@@ -1,0 +1,8 @@
+[    {
+    "prompt": "Brown tabby cat on white stairs photo",
+    "color_context_dict": {
+        "(244, 54, 32)": "Brown tabby cat",
+        "(54, 245, 32)": "blue vase",
+        "(4,54,200)": "red apple"
+    }
+}]
