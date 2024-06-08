@@ -12,7 +12,7 @@ Shant Navasardyan,
 [Humphrey Shi](https://www.humphreyshi.com)
 </br>
 
-[Paper](https://arxiv.org/abs/2406.04032) 
+[Arxiv](https://arxiv.org/abs/2406.04032) 
 
 <p align="center">
 <img src="__assets__/github/teaser.png" width="800px"/>  
