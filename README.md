@@ -1,4 +1,4 @@
-# Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis [CVPR]
+# Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis [CVPR 2024]
 
 This repository is the official implementation of [Zero-Painter](https://arxiv.org/abs/2406.04032).
 
