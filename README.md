@@ -1,9 +1,9 @@
-# Zero-Painter
+# Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis [CVPR]
 
-This repository is the official implementation of [Zero-Painter](https://arxiv.org).
+This repository is the official implementation of [Zero-Painter](https://arxiv.org/abs/2406.04032).
 
 
-**[Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis](https://arxiv.org/)**
+**[Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis](https://arxiv.org/abs/2406.04032)**
 </br>
 Marianna Ohanyan*,
 Hayk Manukyan*,
@@ -12,7 +12,7 @@ Shant Navasardyan,
 [Humphrey Shi](https://www.humphreyshi.com)
 </br>
 
-[Paper](https://arxiv.org/) 
+[Paper](https://arxiv.org/abs/2406.04032) 
 
 <p align="center">
 <img src="__assets__/github/teaser.png" width="800px"/>  
@@ -22,6 +22,10 @@ We present <strong>Zero-Painter</strong> , a novel training-free framework for l
 
 </em>
 </p>
+
+## 🔥 News
+- [2024.06.6] ZeroPainter paper and code is released.
+- [2024.02.27] Paper is accepted to CVPR 2024.
 
 
 ## ⚒️ Installation
@@ -73,13 +77,14 @@ python hd_inpaint.py \
 
 ---  
 
-<!-- ## 🎓 Citation
+## 🎓 Citation
 If you use our work in your research, please cite our publication:
 ```
-@article{,
-  title={Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis},
-  author={},
-  journal={},
-  year={2024}
-}
-``` -->
+@article{Zeropainter,
+title={Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis},
+url={http://arxiv.org/abs/2406.04032},
+publisher={arXiv},
+author={Ohanyan, Marianna and Manukyan, Hayk and Wang, Zhangyang and Navasardyan, Shant and Shi, Humphrey},
+year={2024}}
+
+```
